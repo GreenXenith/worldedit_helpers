@@ -22,6 +22,7 @@ Anything without `:` will be treated as a search term.
 > `.grass <scarcity>`
 
 `<scarcity>` being a number. Higher number means lower chance. Default is `10`.  
+
 **Example: `.grass 30`**  
 This would populate the area with a very low amount of grass.
 
