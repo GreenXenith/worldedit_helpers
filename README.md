@@ -1,6 +1,7 @@
 # WorldEdit Helpers #
 
 This Client-Side Mod provides a few special commands for WorldEdit utilizing `//luatransform`.
+This CSM is [completely safe](https://github.com/GreenXenith/worldedit_helpers#why-this-csm-is-not-harmful) if you aren't stupid.
 
 ## Commands: ##
 * `grass`
@@ -40,3 +41,8 @@ This handy snippet replaces anything containing `moretrees` with air. Handy for 
 
 **Example: `.stk default:dirt sand y 5`**  
 This stacks all `default:dirt` nodes and nodes containing `sand` in the name along the `Y` axis `5` times.
+
+## Why this CSM is not harmful: ##
+This mod executes the command `//luatransform`, part of the [WorldEdit mod](https://forum.minetest.net/viewtopic.php?f=11&t=572).  
+This means attempting to invoke a command without the right priveleges will simply result in an "Insufficient priveleges." error.  
+**TL;DR This mod is only worth your time if you have the ability to use WorldEdit.**
