@@ -1,6 +1,6 @@
 # WorldEdit Helpers #
 
-This Client-Side Mod provides a few special commands for WorldEdit utilizing `//luatransform`.
+This Client-Side Mod provides a few special commands for WorldEdit utilizing `//luatransform`.  
 This CSM is [completely safe](https://github.com/GreenXenith/worldedit_helpers#why-this-csm-is-not-harmful) if you aren't stupid.
 
 ## Commands: ##
