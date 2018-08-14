@@ -30,6 +30,7 @@ This would populate the area with a very low amount of grass.
 
 **Example: `.rs default:stone dirt air`**  
 This replaces all `default:stone` nodes and nodes containing `dirt` in the name with `air`.  
+
 **Example 2: `.rs moretrees air`**  
 This handy snippet replaces anything containing `moretrees` with air. Handy for getting rid of trees from the [moretrees mod](https://forum.minetest.net/viewtopic.php?t=4394).
 
